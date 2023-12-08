@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Stirnreihe.App/1.0.0": {
+        "dependencies": {
+          "Stirnreihe.Data": "1.0.0"
+        },
+        "runtime": {
+          "Stirnreihe.App.dll": {}
+        }
+      },
+      "Stirnreihe.Data/1.0.0": {
+        "runtime": {
+          "Stirnreihe.Data.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Stirnreihe.App/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Stirnreihe.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
